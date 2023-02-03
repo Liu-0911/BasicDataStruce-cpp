@@ -1,0 +1,5 @@
+# ninja log v5
+6	562	6970354746363796	CMakeFiles/SingleLinkedList.dir/SingleLinkedList.cpp.obj	d086190ce4ec3947
+562	828	6970354748336158	SingleLinkedList.exe	278b31636fdce0bf
+0	325	6970364327995052	CMakeFiles/main.dir/main.cpp.obj	a0994cd201c4f38c
+325	427	6970364328965834	main.exe	a70c657b78860202

@@ -1,0 +1,7 @@
+"F:\Software\Code\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=F:/Software/Code/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S F:\File\C++\BaseDataStructure -B F:\File\C++\BaseDataStructure\cmake-build-debug
+SingleLinkedList F:/File/C++/BaseDataStructure/SingleLinkedList.cpp
+main F:/File/C++/BaseDataStructure/main.cpp
+-----------------------------
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/File/C++/BaseDataStructure/cmake-build-debug
